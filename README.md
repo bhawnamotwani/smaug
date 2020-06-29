@@ -1,4 +1,4 @@
-# PC Analysis Data
+# PC Analysis Results
 The files herein contain the results of the principal component analysis conducted on the 8-dimensional space of resolved ISM properties sampled at a scale of 1kpc from the TNG50 volume of the IllustrisTNG suite.
 
 Each file contains the results for samples of galaxies drawn from a particular redshift and decade in stellar mass, as specified in the file name. The field contained within are as follows:
